@@ -9,8 +9,9 @@
     'installable':True,
 
     'assets':{
-    'web._assets_primary_variable':[
-        'custom_addons18/scss/primary_variables.scss',
+    'web._assets_primary_variables':[
+        'website_airproof/static/src/scss/primary_variables.scss',
         ],
      },
 }
+
