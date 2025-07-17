@@ -1,0 +1,9 @@
+<odoo>
+  <template id="website.homepage" name="Home">
+      <t t-call="website.layout">
+        <t t-set="Pagename" t-value="'homepage'"/>
+        <div id="wrap" class="oe_structure oe_empty"/>
+        <t t-set="additional_title">My Page Title</t>
+      </t>
+  </template>
+</odoo>

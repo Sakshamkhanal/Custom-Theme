@@ -1,0 +1,7 @@
+<odoo>
+  <template id="layout" inherit_id="website.layout" name="Welcome Message">
+    <xpath expr="//header" position="replace">
+      <div>Hello world</div>
+    </xpath>
+  </template>
+</odoo>

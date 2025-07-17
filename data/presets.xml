@@ -2,6 +2,15 @@
 <odoo>
   <record id="website.header_call_to_action" model="ir.ui.view">
     <field name="active" eval="False"/>
-  </record>
+ </record>
+ <!--Disabling whishlist on shop -->
+ <record id="website_sale_wishlist.add_to_wishlist" model="ir.ui.view">
+     <field name="active" eval="False"/>
+ </record>
+<!--Enabling whishlist on products-->
+ <record id="website_sale.products_categories" model="ir.ui.view">
+     <field name="active" eval="True"/>
+ </record>
+
 </odoo>
 

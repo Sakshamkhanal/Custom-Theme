@@ -8,6 +8,7 @@
     'installable':True,
     'depends':['website_sale','website_sale_wishlist'],
     'data':[
+    'data/home.xml',
     'data/presets.xml',
     ],
     'assets':{
