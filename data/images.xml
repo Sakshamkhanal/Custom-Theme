@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+    <record id="website.default_website" model="website">
+        <field name="logo" type="base64" file="website_airproof/static/src/img/content/branding/airproof-logo.svg"/>
+    </record>
+    <!--This code reflects the images loaded onto the odoo customize option --!> 
+    <record id="logo" model="ir.attachment">
+        <field name="name"> Logo Airproof</field>
+        <field name="datas" type="base64" file="website_airproof/static/src/img/content/branding/airproof-logo.svg"/>
+        <field name="res_model"> ir.ui.view</field>
+        <field name="public" eval="True"/>
+    </record>
+
+    <record id="img_accessories" model="ir.attachment">
+        <field name="name">Drone Robin picture</field>
+        <field name="datas" type="base64" file="website_airproof/static/src/img/content/drone-robin.webp"/>
+        <field name="res_model">ir.ui.view</field>
+        <field name="public" eval="True"/>
+    </record>
+</odoo>

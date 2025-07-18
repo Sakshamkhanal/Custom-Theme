@@ -10,6 +10,7 @@
     'data':[
     'data/home.xml',
     'data/presets.xml',
+    'data/images.xml',
     ],
     'assets':{
     'web._assets_primary_variables':[
