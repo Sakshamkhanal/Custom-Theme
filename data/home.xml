@@ -16,7 +16,54 @@
                         One Step beyond the horizon | Airproof
                     </t>
                     <div id="wrap" class="oe_structure">
-                        <p>Hello</p>
+                        <section class="s_airproof_carousel s_carousel_wrapper" data-snippet="s_sirproof_carousel" data-name="Carousel custom">
+                            <div class="s_carousel s_carousel_default carousel slide" data-bs-interval="10000" id="s_carousel_homepage">
+                                <ol class="carousel-indicators o_we_no_overlay">
+                                    <li data-bs-slide-to="0" class="active" data-bs-target="#s_carousel_homepage"></li>
+                                    <li data-bs-slide-to="1" data-bs-target="#s_carousel_homepage"></li>
+                                </ol>
+                                <div class="carousel-inner">
+                                    <div class="carousel-item pt24 pb64 o_colored_level active" data-name="Slide">
+                                        <div class="oe_unremovavle container">
+                                            <div class="row content">
+                                                <div class="carousel-content col-lg-6 pt88 position-relative o_colored_level">
+                                                        <h1 class="x_carousel_title position-relative z-index-1">
+                                                            <span class="o_animated_text o_animate o_anim_fade_in o_anim_from_bottom o_visible">One step</span><br/>
+                                                            <span class="o_animated_text o_animate o_anim_fade_in o_anim_from_bottom o_visible" style="animation-delay: 0.2s;">beyond</span><br/>
+                                                            <span class="o_animated_text o_animate o_anim_fade_in o_anim_from_bottom o_visible" style="animation-delay:0.4;">the horizon</span>
+                                                        </h1>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <p class="lead fw-bold">
+                                        <span class="o_animated_text o_animate o_anim_fade_in o_anim_from_bottom o_visible" style="animation-delay:0.6s;">
+                                            We create custom waterproof drones<br/> for professional pilots.
+                                        </span>
+                                    </p>
+                                    <a href="/shop" class="mb-2 btn btn-secondary btn-lg o_anim_fade_in o_animate o_anim_from_bottom o_visible" style="animation-delay:0.8s;">
+                                    Discover our drones
+                                    </a>
+                                </div>
+                                <div class="carousel-content col-lg-6 o_colored_level">
+                                    <div class="x_bubble row justify-content-center justify-content-lg-end position-static position-lg-absolute">
+                                        <div class="col-5 col-lg-5 offset-lg-7 z-index-1 x_bubble1 bg-white mb-3 pt24 pb24 px-4">
+                                            <p class="fw-bold pb8 m-0">Best drone of the year</p>
+                                            <p class="m-0 small">GQ France</p>
+                                        </div>
+                                        <div class="col-5 col-lg-5 offset-lg-7 z-index-1 x_bubble2 bg-white mb-3 pt24 pb24 px-4">
+                                            <div class="s_rating_icons pb8">
+                                                <span class="s_rating_active_icons">
+                                                    <i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i>
+                                                </span>
+                                                <span class="s_rating_inactive_icons"><i class="fa fa-star-o"></i></span>
+                                            </div>
+                                            <p class="m-0 small"><strong style="font-size:16px;">1000+</strong>reviews</p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </section>
                     </div>
                 </t>
             </t>
