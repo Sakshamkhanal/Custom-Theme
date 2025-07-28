@@ -11,6 +11,8 @@
     'data/home.xml',
     'data/presets.xml',
     'data/images.xml',
+    'data/fields.xml',
+    'views/backend/website_blog_views.xml'
     ],
     'assets':{
     'web._assets_primary_variables':[

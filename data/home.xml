@@ -16,25 +16,7 @@
                         One Step beyond the horizon | Airproof
                     </t>
                     <div id="wrap" class="oe_structure">
-                        <section class="s_airproof_carousel s_carousel_wrapper" data-snippet="s_sirproof_carousel" data-name="Carousel custom">
-                            <div class="container text-center">
-                            <h2 class="mb-4">Why Choose Airproof?</h2>
-                                <div class="row">
-                                    <div class="col-md-3">
-                                        <i class="fa fa-shield fa-2x text-primary mb-2"></i>
-                                        <h5>Durability</h5>
-                                    </div>
-                                    <div class="col-md-3">
-                                        <i class="fa fa-battery fa-2x text-primary mb-2"></i>
-                                        <h5>Extended battery</h5>
-                                    </div>
-                                    <div class="col-md-3">
-                                        <i class="fa fa-cube fa-2x text-primary mb-2"></i>
-                                        <h5>Modular design</h5>
-                                    </div>
-                                </div>
-                            </div>
-                        </section>
+                        <p>Hello world</p>
                     </div>
                 </t>
             </t>

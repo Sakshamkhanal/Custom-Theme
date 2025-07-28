@@ -11,6 +11,16 @@
  <record id="website_sale.products_categories" model="ir.ui.view">
      <field name="active" eval="True"/>
  </record>
+ 
+ <!--Disabeling custom footer-->
+ <record id="website.footer_custom" model="ir.ui.view">
+  <field name="active" eval="False"/>
+ </record>
+ 
+ <!--Disabeling header-->
+ <record id="website.template_header_default" model="ir.ui.view">
+     <field name="active" eval="False"/>
+ </record>
 
 </odoo>
 
